@@ -73,7 +73,7 @@ This project analyzes the relationship between physical activity and problematic
 
 3. Run the notebook:  
    ```bash  
-   jupyter notebook df-baseline_모델바꾸기.ipynb  
+   jupyter notebook df-physical-activity-problematic-internet-use.ipynb
    ```  
 
 ---
